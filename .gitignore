@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Log files
+logs/
+*.log
+
+# Google Service Account Key
+config/google_service_account.json
+
+# VSCode
+.vscode/

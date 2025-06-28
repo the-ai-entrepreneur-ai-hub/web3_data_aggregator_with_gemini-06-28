@@ -1,0 +1,10 @@
+playwright>=1.53.0
+beautifulsoup4>=4.13.0
+requests>=2.32.0
+gspread>=6.2.0
+pyairtable>=3.1.0
+python-dotenv>=1.1.0
+schedule>=1.2.0
+google-auth>=2.40.0
+google-auth-oauthlib>=1.2.0
+
